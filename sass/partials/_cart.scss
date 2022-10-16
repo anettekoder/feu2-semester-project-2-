@@ -1,0 +1,16 @@
+.cart-column {
+  display: flex;
+  align-items: center;
+  border-bottom: 1px solid black;
+  margin-right: 1.5em;
+  padding-bottom: 10px;
+  margin-top: 10px;
+}
+
+.remove-button {
+  background: none !important;
+}
+
+.cart-title {
+  font-family: "Roboto", sans-serif !important;
+}
