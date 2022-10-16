@@ -1,10 +1,6 @@
 
 # Semester Project 2
 
-
-![image](https://user-images.githubusercontent.com/52622303/164316813-4b12d99f-aeb7-4069-85cf-e72b3a50ac99.png)
-
-
 ## Description
 This was an assignment focusing on frameworks. 
 
@@ -14,7 +10,7 @@ Create an e-commerce website that has both customer-facing and admin sections. B
 ## Built With
 
 - [Bootstrap](https://getbootstrap.com)
-- [SASS](https://sass-lang.com/))
+- [SASS](https://sass-lang.com/)
 
 ## Getting Started
 
